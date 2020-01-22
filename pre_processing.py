@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 #uploading the image
 
-a='/home/ananya/Documents/ananya/vision/traffic_sur/1.jpg'
+a='image.jpg'
 img=cv2.imread(a)
 
 
